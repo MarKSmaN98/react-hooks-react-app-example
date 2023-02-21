@@ -1,6 +1,7 @@
 import React from "react";
 import { format } from "date-fns";
 import ExampleComponent from "./ExampleComponent";
+import TestComponent from "./TestComponent";
 
 //{format(new Date(), "MMMM do yyyy, h:mm:ss a")}
 // Add your code own within the return statement
